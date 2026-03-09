@@ -1,20 +1,13 @@
 {
   "latest_version": "1.1.0",
-
   "message": "Learn mode improved and scene upgrades added",
-
   "changes": [
     "Improved Learn Mode interactions",
     "Better lunar lighting",
     "Performance improvements",
     "Bug fixes in visibility panel"
   ],
-
   "apk_url": "https://github.com/KunjP44/lunar-observatory/releases/latest/download/lunar-observatory.apk",
-
-  "desktop_url": "https://github.com/KunjP44/lunar-observatory/releases/latest/download/Lunar-Observatory-Setup.exe",
-
-  "pwa_url": "https://kunjp44.github.io/lunar-observatory-app",
-
+  "desktop_url": "https://github.com/KunjP44/lunar-observatory/releases/latest/download/lunar-observatory-setup.exe",
   "force_update": false
 }
