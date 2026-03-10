@@ -11,9 +11,9 @@
 
   "apk_url": "https://github.com/KunjP44/lunar-observatory/releases/latest/download/lunar-observatory.apk",
 
-  "desktop_windows_url": "https://github.com/KunjP44/lunar-observatory/releases/latest/download/Lunar-Observatory-Setup.exe",
+  "desktop_windows_url": "https://github.com/KunjP44/lunar-observatory/releases/latest/download/Lunar-Observatory-win.exe",
 
-  "desktop_linux_url": "https://github.com/KunjP44/lunar-observatory/releases/latest/download/Lunar-Observatory.AppImage",
+  "desktop_linux_url": "https://github.com/KunjP44/lunar-observatory/releases/latest/download/Lunar-Observatory-linux.AppImage",
 
   "force_update": false
 }
